@@ -1,0 +1,83 @@
+c:\users\aluno\documents\visual studio 2013\Projects\AcademiaTA\prjAcademia\bin\Debug\prjAcademia.exe.config
+C:\Users\Aluno\Documents\Visual Studio 2013\Projects\AcademiaTA\prjAcademia\bin\Debug\prjAcademia.exe
+C:\Users\Aluno\Documents\Visual Studio 2013\Projects\AcademiaTA\prjAcademia\bin\Debug\prjAcademia.pdb
+C:\Users\Aluno\Documents\Visual Studio 2013\Projects\AcademiaTA\prjAcademia\obj\Debug\prjAcademia.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2013\Projects\AcademiaTA\prjAcademia\obj\Debug\prjAcademia.Form1.resources
+C:\Users\Aluno\Documents\Visual Studio 2013\Projects\AcademiaTA\prjAcademia\obj\Debug\prjAcademia.Properties.Resources.resources
+C:\Users\Aluno\Documents\Visual Studio 2013\Projects\AcademiaTA\prjAcademia\obj\Debug\prjAcademia.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\Visual Studio 2013\Projects\AcademiaTA\prjAcademia\obj\Debug\prjAcademia.exe
+C:\Users\Aluno\Documents\Visual Studio 2013\Projects\AcademiaTA\prjAcademia\obj\Debug\prjAcademia.pdb
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\AcademiaTA\prjAcademia\bin\Debug\prjAcademia.exe.config
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\AcademiaTA\prjAcademia\obj\Debug\prjAcademia.exe
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\AcademiaTA\prjAcademia\obj\Debug\prjAcademia.pdb
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\AcademiaTA\prjAcademia\bin\Debug\prjAcademia.exe
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\AcademiaTA\prjAcademia\bin\Debug\prjAcademia.pdb
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\AcademiaTA\prjAcademia\obj\Debug\prjAcademia.csprojResolveAssemblyReference.cache
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\AcademiaTA\prjAcademia\obj\Debug\prjAcademia.Form1.resources
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\AcademiaTA\prjAcademia\obj\Debug\prjAcademia.Properties.Resources.resources
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\AcademiaTA\prjAcademia\obj\Debug\prjAcademia.csproj.GenerateResource.Cache
+D:\documentos rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\AcademiaTA\prjAcademia\obj\Debug\prjAcademia.FormFichaMatricula.resources
+E:\Academia\prjAcademia\bin\Debug\prjAcademia.exe.config
+E:\Academia\prjAcademia\obj\Debug\prjAcademia.exe
+E:\Academia\prjAcademia\obj\Debug\prjAcademia.pdb
+E:\Academia\prjAcademia\bin\Debug\prjAcademia.exe
+E:\Academia\prjAcademia\bin\Debug\prjAcademia.pdb
+E:\Academia\prjAcademia\bin\Debug\System.Data.SQLite.dll
+E:\Academia\prjAcademia\bin\Debug\System.Data.SQLite.xml
+E:\Academia\prjAcademia\obj\Debug\prjAcademia.csprojResolveAssemblyReference.cache
+E:\Academia\prjAcademia\obj\Debug\prjAcademia.Form1.resources
+E:\Academia\prjAcademia\obj\Debug\prjAcademia.FormFichaMatricula.resources
+E:\Academia\prjAcademia\obj\Debug\prjAcademia.Properties.Resources.resources
+E:\Academia\prjAcademia\obj\Debug\prjAcademia.csproj.GenerateResource.Cache
+C:\Academia\prjAcademia\bin\Debug\prjAcademia.exe.config
+C:\Academia\prjAcademia\obj\Debug\prjAcademia.exe
+C:\Academia\prjAcademia\obj\Debug\prjAcademia.pdb
+D:\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\bin\Debug\prjAcademia.exe.config
+D:\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\bin\Debug\prjAcademia.exe
+D:\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\bin\Debug\prjAcademia.pdb
+D:\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\bin\Debug\System.Data.SQLite.dll
+D:\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\bin\Debug\System.Data.SQLite.xml
+D:\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.Form1.resources
+D:\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.FormFichaMatricula.resources
+D:\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.FormPesquisa.resources
+D:\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.Properties.Resources.resources
+D:\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.csproj.GenerateResource.Cache
+D:\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.exe
+D:\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.pdb
+D:\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.csprojResolveAssemblyReference.cache
+C:\Academia\prjAcademia\bin\Debug\prjAcademia.exe
+C:\Academia\prjAcademia\bin\Debug\prjAcademia.pdb
+C:\Academia\prjAcademia\bin\Debug\System.Data.SQLite.dll
+C:\Academia\prjAcademia\bin\Debug\System.Data.SQLite.xml
+C:\Academia\prjAcademia\obj\Debug\prjAcademia.csprojResolveAssemblyReference.cache
+C:\Academia\prjAcademia\obj\Debug\prjAcademia.Form1.resources
+C:\Academia\prjAcademia\obj\Debug\prjAcademia.FormFichaMatricula.resources
+C:\Academia\prjAcademia\obj\Debug\prjAcademia.FormPesquisa.resources
+C:\Academia\prjAcademia\obj\Debug\prjAcademia.Properties.Resources.resources
+C:\Academia\prjAcademia\obj\Debug\prjAcademia.csproj.GenerateResource.Cache
+F:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\bin\Debug\prjAcademia.exe.config
+F:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.exe
+F:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.pdb
+F:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\bin\Debug\prjAcademia.exe
+F:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\bin\Debug\prjAcademia.pdb
+F:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\bin\Debug\System.Data.SQLite.dll
+F:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\bin\Debug\System.Data.SQLite.xml
+F:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.csprojResolveAssemblyReference.cache
+F:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.Form1.resources
+F:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.FormFichaMatricula.resources
+F:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.FormPesquisa.resources
+F:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.Properties.Resources.resources
+F:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.csproj.GenerateResource.Cache
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\bin\Debug\prjAcademia.exe.config
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.exe
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.pdb
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\bin\Debug\prjAcademia.exe
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\bin\Debug\prjAcademia.pdb
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\bin\Debug\System.Data.SQLite.dll
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\bin\Debug\System.Data.SQLite.xml
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.csprojResolveAssemblyReference.cache
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.Form1.resources
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.FormFichaMatricula.resources
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.FormPesquisa.resources
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.Properties.Resources.resources
+G:\riq\Documentos - Rique\CursoDS(2MODULO)\Systems Development - Aquiles\Activity\Academia\prjAcademia\obj\Debug\prjAcademia.csproj.GenerateResource.Cache
